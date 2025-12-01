@@ -38,5 +38,5 @@ public class ButtonClicker implements ActionListener{
         public static void main(String[] args) {
                 new ButtonClicker();
         }
-                                                                                                                                            1,21         Haut
-
+}
+                                                                                                                                            1,21         Haut}
