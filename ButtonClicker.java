@@ -39,4 +39,3 @@ public class ButtonClicker implements ActionListener{
                 new ButtonClicker();
         }
 }
-                                                                                                                                            1,21         Haut}
